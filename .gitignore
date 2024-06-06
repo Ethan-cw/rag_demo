@@ -1,0 +1,11 @@
+data/**
+logs/**
+.idea
+
+**.json
+**.txt
+**.csv
+**.tsv
+**.faiss
+
+**/__pycache__/**
